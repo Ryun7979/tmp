@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/JKT_Art/Scene/scene.unity
+  isLoaded: 1
+  isActive: 1
